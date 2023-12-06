@@ -1,0 +1,6 @@
+[
+    { "type": "step1", "state": "completed" },
+    { "type": "step2", "state": "completed" },
+    { "type": "step3", "state": "ready" },
+    { "type": "step4", "state": "ready" }
+]

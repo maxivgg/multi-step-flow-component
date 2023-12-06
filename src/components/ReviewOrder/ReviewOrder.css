@@ -1,0 +1,35 @@
+.review-order {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.invoice {
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding-left: 20px;
+  padding-right: 20px;
+  min-width: 75%;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.invoice .item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.invoice .item:last-child {
+  border-bottom: none;
+}
+
+.total {
+  font-weight: bold;
+  margin-top: 20px;
+}

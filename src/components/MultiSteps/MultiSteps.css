@@ -1,0 +1,14 @@
+.title-focus {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+.multi-steps{
+  min-width: 90%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  min-height: 500px;
+  margin-bottom: 20px;
+  position:relative;
+}
